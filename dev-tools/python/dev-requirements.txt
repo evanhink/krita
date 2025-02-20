@@ -1,3 +1,5 @@
+To develop Krita in Python, the minimum version requirements are:
+
 flake8==3.8.4
 pytest==6.1.2
 PyQt5==5.11.3
