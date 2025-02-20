@@ -4,7 +4,7 @@
 
 """This is a mock krita module for Python unit tests.
 
-This module returns a mock object for any attribute name and thus
+This module returns a mock object for any attribute name, and thus
 prevents any errors surrounding the krita module in unit tests. This
 makes it possible to write unit tests for Krita-independent code
 units.
